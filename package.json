@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christenson10/MVC-Tech-Blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/christenson10/MVC-Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/christenson10/MVC-Tech-Blog#readme"
 }
